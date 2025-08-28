@@ -1,6 +1,0 @@
-{
-    "input_file": "C:/Users/aider/Desktop/产品图像分类-通用/asin和图片链接_测试.xlsx",
-    "model_file": "C:/Users/aider/Desktop/产品图像分类-通用/产品图像分类-通用.h5",
-    "classes_file": "C:/Users/aider/Desktop/产品图像分类-通用/产品图像分类_通用_类别.json",
-    "output_file": "预测结果.xlsx"
-}
